@@ -1,0 +1,3 @@
+const mainFunc = () => {
+    console.log()
+}
