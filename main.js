@@ -6,3 +6,4 @@ const mainFunc = () => {
 
 const a = 10 -3;
 const a1 = 10 -3;
+const a13 = 10 -3;
