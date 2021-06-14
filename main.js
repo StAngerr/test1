@@ -1,3 +1,4 @@
 const mainFunc = () => {
-    console.log()
+    console.log('Added test')
 }
+
